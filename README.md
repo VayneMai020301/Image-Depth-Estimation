@@ -111,31 +111,31 @@ depth [y, x] = disparity * scale
 
 <div style="display: flex; justify-content: center; align-items: center;">
    <div style="text-align: center; margin: 10px;">
-    <img src="images/left.png" alt="Image 1" style="width: auto;">
+    <img src="images/left.png" alt="Image 1" style="width: 200px;">
     <p>Left Image</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="images/right.png" alt="Image 2" style="width: auto;">
+    <img src="images/right.png" alt="Image 2" style="width: 200px;">
     <p>Right Image</p>
   </div>
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
    <div style="text-align: center; margin: 10px;">
-    <img src="results/pixel_wise_l1.png" alt="Image 1" style="width: auto;">
+    <img src="results/pixel_wise_l1.png" alt="Image 1" style="width: 200px;">
     <p>Pixel-wise matching l1</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="results/pixel_wise_l1_color.png" alt="Image 2" style="width: auto;">
+    <img src="results/pixel_wise_l1_color.png" alt="Image 2" style="width: 200px;">
     <p>Pixel-wise matching l1 color</p>
   </div>
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
  <div style="text-align: center; margin: 10px;">
-    <img src="results/pixel_wise_l2.png" alt="Image 3" style="width: auto;">
+    <img src="results/pixel_wise_l2.png" alt="Image 3" style="width: 200px;">
     <p>Pixel-wise matching l2</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="results/pixel_wise_l2_color.png" alt="Image 4" style="width: auto;">
+    <img src="results/pixel_wise_l2_color.png" alt="Image 4" style="width: 200px;">
     <p>Pixel-wise matching l2</p>
   </div>
 </div>
@@ -143,44 +143,44 @@ depth [y, x] = disparity * scale
 * Left and Right Image 
 <div style="display: flex; justify-content: center; align-items: center;">
    <div style="text-align: center; margin: 10px;">
-    <img src="images/Aloe_left_1.png" alt="Image 1" style="width: auto;">
+    <img src="images/Aloe_left_1.png" alt="Image 1" style="width: 200px;">
     <p>Left Image</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="images/Aloe_right_1.png" alt="Image 2" style="width: auto;">
+    <img src="images/Aloe_right_1.png" alt="Image 2" style="width: 200px;">
     <p>Right Image</p>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
    <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_l1.png" alt="Image 1" style="width: auto;">
+    <img src="results/window_based_l1.png" alt="Image 1" style="width: 200px;">
     <p>Window-base matching l1</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_l1_color.png" alt="Image 2" style="width: auto;">
+    <img src="results/window_based_l1_color.png" alt="Image 2" style="width: 200px;">
     <p>Window-base matching l1 color</p>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_l2.png" alt="Image 3" style="width: auto;">
+    <img src="results/window_based_l2.png" alt="Image 3" style="width: 200px;">
     <p>Window-base matching l2</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_l2_color.png" alt="Image 4" style="width: auto;">
+    <img src="results/window_based_l2_color.png" alt="Image 4" style="width: 200px;">
     <p>Window-base matching l2 color</p>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_cosine_similarity.png" alt="Image 3" style="width: auto;">
+    <img src="results/window_based_cosine_similarity.png" alt="Image 3" style="width: 200px;">
     <p>Window-base matching cosine similarity</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="results/window_based_cosine_similarity_color.png" alt="Image 4" style="width: auto;">
+    <img src="results/window_based_cosine_similarity_color.png" alt="Image 4" style="width: 200px;">
     <p>Window-base matching cosine similarity color</p>
   </div>
 </div>
